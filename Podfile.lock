@@ -1,0 +1,16 @@
+PODS:
+  - DWAnimatedLabel (1.2)
+
+DEPENDENCIES:
+  - DWAnimatedLabel (~> 1.1)
+
+SPEC REPOS:
+  trunk:
+    - DWAnimatedLabel
+
+SPEC CHECKSUMS:
+  DWAnimatedLabel: 2c5742ea5584187592508e5cee0a9b0e8e8c6af0
+
+PODFILE CHECKSUM: 89c8e7a73f607e31c14e2b77b502f7581a2cbdf7
+
+COCOAPODS: 1.12.1
